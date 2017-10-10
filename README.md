@@ -1,3 +1,7 @@
-#DGIIM
+# DGIIM
 
-Repositorio con cosas que me parecen interesantes que hago en el doble grado de ingeniería informática y matemáticas.
+This repository contains the most interesting things I do during my
+studies in Mathematics and Computer Science. The less interesting
+things can be found in the following repositories:
+
+- [ED (Data structures)](https://github.com/yabirgb/ED)
